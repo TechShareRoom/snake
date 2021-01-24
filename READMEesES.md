@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=techshareroom.snake)
+﻿![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=techshareroom.snake)
 
 <a href="https://github.com/techshareroom/snake/blob/main/READMEesES.md" target="_blank"><img src="https://raw.githubusercontent.com/techshareroom/snake/main/images/languages/spain.png" width="80" img align="right"></a>
 <a href="https://github.com/techshareroom/snake" target="_blank"><img src="https://raw.githubusercontent.com/techshareroom/snake/main/images/languages/united-kingdom.png" width="80" style="vertical-align:middle;margin:0px 50px" img align="right"></a>
@@ -6,16 +6,16 @@
 <img src="https://raw.githubusercontent.com/techshareroom/snake/main/images/snake.png" width="80"> snake
 =============================================
 
-A snake game like written in python.
+Un juego de tipo serpiente escrito en python.
 
-# TO DO
+# PARA HACER
 
-Upload code
+Subir código
 
-# DONE
+# REALIZADO
 
-Pendant
+Pendiente
 
-# Contributors
+# Contribuidores
 
 * [manu02ch](https://github.com/manu02ch)
