@@ -8,6 +8,10 @@
 
 A snake game like written in python.
 
+<a href="https://discord.gg/wfm7Jrj">
+<img src="https://discordapp.com/api/guilds/750051000664064141/widget.png?style=banner2" alt="Discord Banner 2"/>
+</a>
+
 # TO DO
 
 Upload code

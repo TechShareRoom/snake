@@ -8,6 +8,10 @@
 
 Un juego de tipo serpiente escrito en python.
 
+<a href="https://discord.gg/wfm7Jrj">
+<img src="https://discordapp.com/api/guilds/750051000664064141/widget.png?style=banner2" alt="Discord Banner 2"/>
+</a>
+
 # PARA HACER
 
 Subir código
