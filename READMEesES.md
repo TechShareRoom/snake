@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/techshareroom/snake/main/images/snake.png" width="80"> snake
 =============================================
 
-Un juego de tipo serpiente escrito en python.
+Un juego de tipo serpiente escrito en Python.
 
 <a href="https://discord.gg/wfm7Jrj">
 <img src="https://discordapp.com/api/guilds/750051000664064141/widget.png?style=banner2" alt="Discord Banner 2"/>

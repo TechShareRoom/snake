@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/techshareroom/snake/main/images/snake.png" width="80"> snake
 =============================================
 
-A snake game like written in python.
+A snake game like written in Python.
 
 <a href="https://discord.gg/wfm7Jrj">
 <img src="https://discordapp.com/api/guilds/750051000664064141/widget.png?style=banner2" alt="Discord Banner 2"/>
